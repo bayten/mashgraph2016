@@ -1,3 +1,2 @@
-# mashgraph2016
-В данном репозитории лежат выполненные задания по машинной графике за осень 2016 года.
-PDF-условия заданий лежат в соответствующих папках.
+# msu-mashgraph
+Completed tasks in machine graphics CMC course   
